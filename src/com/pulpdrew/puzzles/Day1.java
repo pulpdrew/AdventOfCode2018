@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Day1 {
-	
+	s
 	public static void main(String[] args) throws FileNotFoundException {
 	
 		
